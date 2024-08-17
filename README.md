@@ -3,10 +3,10 @@
 ### 1. All code for single-cell multimodal data analysis.
 
 #### 1.1 Annotation of individual single-cell multimodal data.
-* Code for manually annotated scRNA & ATAC data
-* Code for previous studies annotating scRNA & ATAC data
-* Code for scRNA & ATAC data using reference data for label transfer
-* Code for scRNA & protein data analysis
+* R/for_Manually annotated data.R: Code for manually annotated scRNA & ATAC data.
+* R/for_Researching annotated data.R: Code for previous studies annotating scRNA & ATAC data.
+* R/for_Data transferred based on reference.R: Code for scRNA & ATAC data using reference data for label transfer.
+* R/for_CITE-seq_data.R: Code for scRNA & protein data analysis.
 
 #### 1.2 Integration of multiple single-cell multimodal data
 * R/Step1-Integration multiple RNA data.R
