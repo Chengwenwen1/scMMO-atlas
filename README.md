@@ -15,7 +15,7 @@
 * R/Step4-Pseudotime analysis.R
 
 ### 2. Database Link
-https://jinwlab.sustech.edu.cn/scMMO-atlas/
+https://www.biosino.org/scMMO-atlas/
 
 ### 3. Citation
 scMMO-atlas: a single cell multimodal omics atlas and portal for exploring fine cell heterogeneity and cell dynamics.
