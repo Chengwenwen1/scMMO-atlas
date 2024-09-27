@@ -18,4 +18,4 @@
 https://www.biosino.org/scMMO-atlas/
 
 ### 3. Citation
-scMMO-atlas: a single cell multimodal omics atlas and portal for exploring fine cell heterogeneity and cell dynamics.
+Cheng W, Yin C, Yu S, Chen X, Hong N, Jin W. scMMO-atlas: a single cell multimodal omics atlas and portal for exploring fine cell heterogeneity and cell dynamics. Nucleic Acids Res. 2024 Sep 24:gkae821. DOI:10.1093/nar/gkae821.
